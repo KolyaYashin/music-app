@@ -24,7 +24,6 @@ cursor: pointer;
     cursor: pointer;
 }
 .button:hover{
-    background-color:gray;
     border-bottom: 1px solid red;
 }
 .button:after{
