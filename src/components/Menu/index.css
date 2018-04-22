@@ -1,0 +1,33 @@
+.menu{
+    height:80px;
+    width:100%;
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    position:relative;
+    background-color: aquamarine;
+}
+.menu-view{
+color:red;
+display: flex;
+align-items: center;
+margin: 5px;
+margin-left:2%;
+position: absolute;
+cursor: pointer;
+}
+.menu-search{
+    margin: 5px;
+    margin-left:92%;
+    color:red;
+    position: absolute;
+    cursor: pointer;
+}
+.button:hover{
+    background-color:gray;
+    border-bottom: 1px solid red;
+}
+.button:after{
+    
+}
+
